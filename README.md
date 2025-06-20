@@ -1,6 +1,4 @@
 # Excel-Sale-Analysis-Dashboard
-![Sales Dashboard](sales dashboard project excel(best).jpg)
-
 ## Overview
 This project presents a comprehensive sales dashboard to visualize and analyze business performance across different metrics such as revenue, order trends, product performance, and customer behavior.
 
